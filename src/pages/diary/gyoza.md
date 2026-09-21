@@ -1,6 +1,7 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "餃子は失敗しないから好き"
-pubDate: 2026-09-19
+Date: 2025/09/18
 category: "日常"
 ---
 
