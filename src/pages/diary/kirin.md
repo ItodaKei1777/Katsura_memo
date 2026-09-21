@@ -9,7 +9,7 @@ category: "日常"
 
 本題なのですが、みなさんはキリンの泡を知っていますか。知っててくれ頼むから。
 
-![キリンの泡](/images/kirin.png)
+![キリンの泡](/Katsura_memo/images/kirin.png)
 
 ↑
 　
